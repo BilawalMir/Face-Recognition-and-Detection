@@ -1,4 +1,3 @@
-````markdown
 # Face Recognition Project
 
 This project uses the `face_recognition` library for facial recognition tasks in Python. It leverages the `dlib` library under the hood to perform fast and accurate face detection and recognition.
