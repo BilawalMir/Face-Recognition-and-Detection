@@ -95,9 +95,6 @@ Make sure your script imports `face_recognition` and uses it as intended.
 
 ## Author
 
-Ali Traders
+Bilawal Mir
 
-```
 
-Just paste this into your **README.md** file and save it. Need help with anything else?
-```
