@@ -1,5 +1,3 @@
-Absolutely! Here’s the **README.md** content ready for you to copy-paste directly into your file:
-
 ````markdown
 # Face Recognition Project
 
